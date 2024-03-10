@@ -1,0 +1,10 @@
+C:\Users\wlgho\Desktop\paid projects\SMS\LMS\obj\Debug\LMS.csproj.AssemblyReference.cache
+C:\Users\wlgho\Desktop\paid projects\SMS\LMS\obj\Debug\LMS.source_codes.login.resources
+C:\Users\wlgho\Desktop\paid projects\SMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\Users\wlgho\Desktop\paid projects\SMS\LMS\obj\Debug\LMS.csproj.GenerateResource.cache
+C:\Users\wlgho\Desktop\paid projects\SMS\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+C:\Users\wlgho\Desktop\paid projects\SMS\LMS\bin\Debug\LMS.exe.config
+C:\Users\wlgho\Desktop\paid projects\SMS\LMS\bin\Debug\LMS.exe
+C:\Users\wlgho\Desktop\paid projects\SMS\LMS\bin\Debug\LMS.pdb
+C:\Users\wlgho\Desktop\paid projects\SMS\LMS\obj\Debug\LMS.exe
+C:\Users\wlgho\Desktop\paid projects\SMS\LMS\obj\Debug\LMS.pdb

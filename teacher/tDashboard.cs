@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace LMS
+namespace LMS.teacher
 {
-    public partial class Form1 : Form
+    public partial class tDashboard : Form
     {
-        public Form1()
+        public tDashboard()
         {
             InitializeComponent();
         }
