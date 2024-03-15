@@ -1,4 +1,6 @@
-﻿using LMS.source_codes;
+﻿using LMS.admin;
+using LMS.source_codes;
+using LMS.teacher;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +19,7 @@ namespace LMS
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new login());
+            Application.Run(new aDashboard());
         }
     }
 }
